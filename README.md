@@ -7,4 +7,5 @@ The board will be powered by a DIY battery pack made of 18650 cells. The wheel i
 Onshape CAD: https://cad.onshape.com/documents/c497d1f75425da5f51370fc4/w/71f43d1b08b6286f98dead74/e/94eabcd93dfe508ba2d95107
 
 BOM: https://docs.google.com/spreadsheets/d/1sMAZi-zTqRRzRQusAUUEwDsEDToEeAHINebtib2DdCQ/edit?usp=sharing
+
 Total Price: $440, extra costs paid out of pocket
