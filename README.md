@@ -10,4 +10,4 @@ Onshape CAD: https://cad.onshape.com/documents/c497d1f75425da5f51370fc4/w/71f43d
 
 BOM: https://docs.google.com/spreadsheets/d/1sMAZi-zTqRRzRQusAUUEwDsEDToEeAHINebtib2DdCQ/edit?usp=sharing
 
-Total Price: $440, extra costs paid out of pocket
+Total Price: $432, extra costs paid out of pocket
