@@ -5,10 +5,41 @@ This is my DIY balancing skateboard / onewheel
 ![image](https://github.com/user-attachments/assets/a018ad5a-410a-49be-abcd-d8e1890fdbc5)
 The board will be powered by a DIY battery pack made of 18650 cells. The wheel itself will be a Onewheel XR motor purchased used and driven by a Flipsky Mini FSESC6.7 Pro running VESC. The frame is made from 1"x2" aluminum stock. There are 1/8" aluminum plates under the tubes for support and mounting electronics, and 0.5" wood on top for the footplates. The bumpers and footplates will be made from TPU to absorb shocks and provide cushion. Everything (Except for the motor) is secured via an assortment of #10 bolts, nuts, and heatset inserts. The battery will sit in the front compartment of the board, and all of the other electronics including the charging port and power button will be in the back compartment. Theres also LED strips on the front and back for lighting. I started this project when I saw how expensive onewheels were and I was also inspired by byte sized engineering's DIY onewheel. In terms of experience, I have CADded robots for my FRC team, but I have never made any personal projects yet. I also wanted to do this project because I already have some of the parts required for it as well as the tools needed.
 
-Detailed Writeup: https://docs.google.com/document/d/1NE0qM1cmgWuiWAkizPOwZtDWw2HRZAZ034RXwmubqJ8/edit?usp=sharing
-
+Writeup: https://docs.google.com/document/d/1NE0qM1cmgWuiWAkizPOwZtDWw2HRZAZ034RXwmubqJ8/edit?usp=sharing
 Onshape CAD: https://cad.onshape.com/documents/c497d1f75425da5f51370fc4/w/71f43d1b08b6286f98dead74/e/94eabcd93dfe508ba2d95107
-
-BOM: https://docs.google.com/spreadsheets/d/1sMAZi-zTqRRzRQusAUUEwDsEDToEeAHINebtib2DdCQ/edit?usp=sharing
-
 Total Price: $432, extra costs paid out of pocket
+BOM:
+## Bill of Materials (BOM)
+
+| Item | Vendor | Units Per Package | Quantity | Price Per Unit | Total Price | Link |
+|------|--------|-------------------|----------|----------------|-------------|------|
+| Onewheel Motor (Includes hub and tire) | Onewheel Discord Server | 1.0 | 1.0 | $115 | $115 |  |
+| Flipsky Mini FSESC6.7 Pro | N/A (Already Owned) | 1.0 | 1.0 | $0 | $0 |  |
+| 2" x 1" x 0.125" Aluminum Tube Stock (47") (WCP-0922) | WestCoast Products | 1.0 | 2.0 | $26.99 | $53.98 | [Link](https://wcproducts.com/products/aluminum-tubing) |
+| #10-32 x .375L HeatSet Insert (Brass) (20-Pack) (WCP-0297) | WestCoast Products | 1.0 | 1.0 | $6.99 | $6.99 | [Link](https://wcproducts.com/products/nuts) |
+| 1/2 in. x 2 ft. x 4 ft. Sande Plywood Project Panel | The Home Depot | 1.0 | 1.0 | $24.78 | $24.78 | [Link](https://www.homedepot.com/p/Handprint-1-2-in-x-2-ft-x-4-ft-Sande-Plywood-Project-Panel-109068/202093791) |
+| 1/8" Aluminum sheet | N/A (Already Owned) | 1.0 | 2.0 | $0 | $0 |  |
+| TPU for AMS 3kg | N/A (Already Owned) | 1.0 | 1.0 | $0.00 | $0.00 |  |
+| PETG HF 2kg | N/A (Already Owned) | 1.0 | 1.0 | $0.00 | $0.00 |  |
+| #10-32 x 1" BHCS | N/A (Already Owned) | 50.0 | 1.0 | $0 | $0 |  |
+| #10-32 x 1.750" L BHCS (Steel, Black Oxide) (50-Pack) (WCP-0258) | WestCoast Products | 50.0 | 1.0 | $12.99 | $12.99 | [Link](https://wcproducts.com/products/bolts) |
+| #10-32 x 3.500" L SHCS (Steel, Black Oxide) (25-Pack) (WCP-0272) | WestCoast Products | 25.0 | 1.0 | $19.99 | $19.99 | [Link](https://wcproducts.com/products/bolts) |
+| Black PCB DC LED Strip | N/A (Already Owned) | 1.0 | 1.0 | $0 | $0 |  |
+| 10 AWG Wire | N/A (Already Owned) | 1.0 | 1.0 | $0 | $0 |  |
+| Banana Bullet Connectors | Aliexpress | 10.0 | 1.0 | $0.99 | $0.99 | [Link](https://www.aliexpress.us/item/2255801040017767.html?aff_fcid=0e4f2d93be314817bc003fe5e80f1e81-1751404726391-04366-_AEa7eN&tt=CPS_NORMAL&aff_fsk=_AEa7eN&aff_platform=shareComponent-detail&sk=_AEa7eN&aff_trace_key=0e4f2d93be314817bc003fe5e80f1e81-1751404726391-04366-_AEa7eN&terminal_id=50a1346e03e4483281e63a862a539d7a&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt) |
+| JST PH 7 pin connectors | Amazon | 1.0 | 1.0 | $9.99 | $9.99 | [Link](https://www.amazon.com/2-0MM-Female-Single-Connector-300mm/dp/B01IZBC0KI?crid=12KTIOWGBDVT8&dchild=1&keywords=jst+ph+2.0+7+pin+connector&qid=1626719751&sprefix=JST+ph+,aps,203&sr=8-6&linkCode=sl1&tag=bytesized-20&linkId=2aef3b8d1f2bc848deef9888d5567ad5&language=en_US&ref_=as_li_ss_tl) |
+| JST PH 4 pin plug connectors | Amazon | 1.0 | 1.0 | $11.99 | $11.99 | [Link](https://www.amazon.com/XLX-Connection-15cm-Terminal-Connector-Compatible/dp/B081CRLN8B?dchild=1&keywords=jst+ph+2.0+4+pin+connector&qid=1626721033&sr=8-8&linkCode=sl1&tag=bytesized-20&linkId=971645f64839e62b8bccc18e6783c082&language=en_US&ref_=as_li_ss_tl) |
+| Force Sensitve Resistors | Amazon | 1.0 | 2.0 | $10.40 | $20.80 | [Link](https://www.amazon.com/Fafeicy-Square-Shape-Resistance-Type-Automotive-Electronics/dp/B08MPPT1JB/ref=sr_1_3?crid=1GZZZQHO9043L&dib=eyJ2IjoiMSJ9.ygaFLxlcF_iXqOSO5S5_RPJhGKpy3i_wGz3twdK3x1n2mavG66j8ihCj0FuowVpHxHvdqaF4UHcVf_w3-nd1s3cAofP5s6mJ7ot54Cmj-_dcq7sdcjRDWMGznge7yY4EQKix59ZTOW9_RdVRvMvsz-73qVSpyT8YEtGqeAaXuzHMFIg8M9A4z8yFXqRjsA9u_d96DZBuKXPzAPMCUq14KZ1airQNzrI8pyh7ebuDjWs.RzrEPJ0hQq7NrC3AX8Thyz6JBnCO-QX3lwyLjREsUsk&dib_tag=se&keywords=Square+Force-Sensitive+Resistor&qid=1751407164&sprefix=square+force-sensitive+resistor%2Caps%2C173&sr=8-3) |
+| Inline ATC/ATO Blade Fuse | Aliexpress | 5.0 | 1.0 | $0.99 | $0.99 | [Link](https://www.aliexpress.us/item/3256801195985838.html?aff_fcid=38ae074417c047e4855c4982ed420885-1751406967527-03492-_9QPkqh&tt=CPS_NORMAL&aff_fsk=_9QPkqh&aff_platform=shareComponent-detail&sk=_9QPkqh&aff_trace_key=38ae074417c047e4855c4982ed420885-1751406967527-03492-_9QPkqh&terminal_id=50a1346e03e4483281e63a862a539d7a&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt) |
+| XLR Female Jack | Aliexpress | 2.0 | 1.0 | $1.24 | $1.24 | [Link](https://www.aliexpress.us/item/2255800377393550.html?aff_fcid=f40fc6cf20b7458494891aac09a4bb05-1751407005160-09650-_9jKrBP&tt=CPS_NORMAL&aff_fsk=_9jKrBP&aff_platform=shareComponent-detail&sk=_9jKrBP&aff_trace_key=f40fc6cf20b7458494891aac09a4bb05-1751407005160-09650-_9jKrBP&terminal_id=50a1346e03e4483281e63a862a539d7a&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt) |
+| Grip Tape | Aliexpress | 1.0 | 1.0 | $3.32 | $3.32 | [Link](https://www.aliexpress.us/item/3256801170936156.html?aff_fcid=8ceb3519d8474ca7843a5a2122d97c08-1751406882956-07775-_AKqLRR&tt=CPS_NORMAL&aff_fsk=_AKqLRR&aff_platform=shareComponent-detail&sk=_AKqLRR&aff_trace_key=8ceb3519d8474ca7843a5a2122d97c08-1751406882956-07775-_AKqLRR&terminal_id=50a1346e03e4483281e63a862a539d7a&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt) |
+| M5x12mm Hex Socket Head Screws | Aliexpress | 10.0 | 1.0 | $1.58 | $1.58 | [Link](https://www.aliexpress.us/item/2251832782168715.html?spm=a2g0o.productlist.0.0.2d1524c7dSe7XE&aem_p4p_detail=2021071912112012918648120279480002990635&gatewayAdapt=glo2usa4itemAdapt) |
+| M3x8mm Pan Head Screws | Aliexpress | 50.0 | 1.0 | $1.13 | $1.13 | [Link](https://www.aliexpress.us/item/3256802007041134.html?aff_fcid=93b5e17bae90405fbb958a62c0304f84-1751408136640-01088-_9QuFzo&tt=CPS_NORMAL&aff_fsk=_9QuFzo&aff_platform=shareComponent-detail&sk=_9QuFzo&aff_trace_key=93b5e17bae90405fbb958a62c0304f84-1751408136640-01088-_9QuFzo&terminal_id=50a1346e03e4483281e63a862a539d7a&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt) |
+| Arduino Compatible Nano Microcontroller | N/A (Already Owned) | 0.0 | 0.0 | $0.00 | $0.00 |  |
+| Flipsky Antispark Switch | Aliexpress | 1.0 | 1.0 | $31.59 | $31.59 | [Link](https://www.aliexpress.us/item/3256802736299108.html?spm=a2g0o.productlist.main.1.10b116dbli6U3U&algo_pvid=c7078f17-1a64-4424-bbef-7c6c76691ac5&algo_exp_id=c7078f17-1a64-4424-bbef-7c6c76691ac5-0&pdp_ext_f=%7B%22order%22%3A%227%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%21109.97%2133.59%21%21%21109.97%2133.59%21%402101c80217514066230315594e9d82%2112000022818579155%21sea%21US%210%21ABX&curPageLogUid=uiDCAoonZJxy&utparam-url=scene%3Asearch%7Cquery_from%3A) |
+| MPU 9250 IMU | N/A (Already Owned) | 0.0 | 0.0 | $0.00 | $0.00 |  |
+| XT60 Connectors | Amazon | 10.0 | 1.0 | $7.99 | $7.99 | [Link](https://www.amazon.com/MCIGICM-Upgrade-Female-Bullet-Connectors/dp/B07Q2SJSZ1/ref=sr_1_2?crid=3KEFDGQWAMY53&dib=eyJ2IjoiMSJ9.nngpRUVRf-DUgyRDqeJY9jZ4uSXuvl8Bm7olQnvl7YNYuk2BzesPkItmdDu5TIl0dhG08cFfSnMKuwtqMkIbiuHiQJK8_J8eEqDfxd_t_zUSwMrPOlP4kBtAqDLhIFGYgZ10tAdVDMzfUmeiuHqUejlQTHu67IhYBfcGLcDYvTqqvJgewCqxv6lxScOpOgGVi04m36XXaoezmbECzIvpSSl6AL9fOkM2At_LPg7AVw4dI4H2yn5U5_PDXtPiSG7LFlguv8feQsCQDg8wGWH2LhpW-dX3zyLCJhCvs1FCsPU.w8lSBf80bXJR-z8fiSBPBc44M4Pa7ZXMoQKxynMuVwY&dib_tag=se&keywords=xt60+connector&qid=1751406471&sprefix=xt60+connector%2Caps%2C163&sr=8-2) |
+| 15s2p BMS | N/A (Already Owned) | 0.0 | 0.0 | $0.00 | $0.00 |  |
+| 48V 20Ah Battery and Charger | Amazon | 1.0 | 1.0 | $106.99 | $106.99 | [Link](https://www.amazon.com/20Ah-Lithium-Battery-Ebike-Scooter/dp/B0F5PWS845/ref=asc_df_B0F5PWS845?mcid=ebe69d976c2c3ce6a85e446e0768c5d1&hvocijid=3382634018579770201-B0F5PWS845-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=3382634018579770201&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031950&hvtargid=pla-2281435177818&psc=1) |
+
+| nan | nan | nan | nan | Total Price: | $432 |  |
