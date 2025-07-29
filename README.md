@@ -8,6 +8,7 @@ The board will be powered by a DIY battery pack made of 18650 cells. The wheel i
 Writeup: https://docs.google.com/document/d/1NE0qM1cmgWuiWAkizPOwZtDWw2HRZAZ034RXwmubqJ8/edit?usp=sharing
 Onshape CAD: https://cad.onshape.com/documents/c497d1f75425da5f51370fc4/w/71f43d1b08b6286f98dead74/e/94eabcd93dfe508ba2d95107
 Total Price: $432, extra costs paid out of pocket
+
 BOM:
 ## Bill of Materials (BOM)
 
@@ -42,4 +43,4 @@ BOM:
 | 15s2p BMS | N/A (Already Owned) | 0.0 | 0.0 | $0.00 | $0.00 |  |
 | 48V 20Ah Battery and Charger | Amazon | 1.0 | 1.0 | $106.99 | $106.99 | [Link](https://www.amazon.com/20Ah-Lithium-Battery-Ebike-Scooter/dp/B0F5PWS845/ref=asc_df_B0F5PWS845?mcid=ebe69d976c2c3ce6a85e446e0768c5d1&hvocijid=3382634018579770201-B0F5PWS845-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=3382634018579770201&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031950&hvtargid=pla-2281435177818&psc=1) |
 
-| nan | nan | nan | nan | Total Price: | $432 |  |
+Total Price: | $432 |
